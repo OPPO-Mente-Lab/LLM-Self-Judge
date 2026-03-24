@@ -3,7 +3,7 @@
 # ⚖️ When Models Judge Themselves
 ###  Unsupervised Self-Evolution for Multimodal Reasoning
 
-[![arXiv](https://img.shields.io/badge/arXiv-2509.25541-b31b1b.svg)](https://arxiv.org/abs/2509.25541)
+[![arXiv](https://img.shields.io/badge/arXiv-2603.21289-b31b1b.svg)](https://arxiv.org/abs/2509.25541)
 [![Pages](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Project](https://img.shields.io/badge/Project-Page-green.svg)](https://dingwu1021.github.io/SelfJudge/)
 <!-- [![Models](https://img.shields.io/badge/🤗-Models-yellow)](https://huggingface.co/xxxx) -->
